@@ -1,0 +1,5 @@
+#Ignorar venviroment
+test/
+#Ignorar la cache de Python  
+_pycache_
+*.pyc
